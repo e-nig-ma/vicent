@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Proof-of-Stake Is a Defective Mechanism"
-description: "A paper why proof-of-stake implemented as a distributed consensus mechanisms in the base layer of blockchain networks are defective cryptosystems by nature."
+description: "A paper why proof-of-stake is defective by nature."
 date: 2022-03-24
 tags: cryptocurrencies
 comments: false
