@@ -7,9 +7,9 @@ tags: cryptocurrencies
 comments: false
 ---
 
-Paper is a minimal Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. The styling is purposely minimalistic so that you can add your own flare to the website.
+Available at [IACR (International Association of Cryptologic Research)](https://eprint.iacr.org/2022/409.pdf)
 
-I'm currently using this theme on my [personal blog](https://www.deadbeef.me).
+*Abstract:* Proof-of-stake algorithms implemented as distributed consensus mechanisms in the base layer of blockchain networks are defective cryptosystems by nature. By trying to improve the energy efficiency of blockchains using proof-of-work in the consensus mechanism, proof-of-stake is introducing a set of significant new flaws in both monetary and governance models. Such systems are plutocratic, oligopolistic, and permissioned.
 
 ## Features
 - Compatible with Jekyll 3.x and Github Pages
