@@ -8,7 +8,8 @@ comments: false
 ---
 
 PDF Available: [Proof-of-Stake Is a Defective Mechanism](https://e.nig.ma/docs/pos.pdf)
-- [IACR (International Association of Cryptologic Research)](https://eprint.iacr.org/2022/409.pdf)
+- Cryptology ePrint Archive, 2022 [[PDF](https://eprint.iacr.org/2022/409.pdf)]
+- SSRN
 
 **Abstract:** Proof-of-stake algorithms implemented as distributed consensus mechanisms in the base layer of blockchain networks are defective cryptosystems by nature. By trying to improve the energy efficiency of blockchains using proof-of-work in the consensus mechanism, proof-of-stake is introducing a set of significant new flaws in both monetary and governance models. Such systems are plutocratic, oligopolistic, and permissioned.
 
