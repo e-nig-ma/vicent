@@ -14,7 +14,11 @@
         @include fs--heading-2;
         color: $c-base__02;
     }
-
+   
+    h1 a {
+        color: $c-base__02;
+    }
+     
     p {
         @include fs--meta;
     }
