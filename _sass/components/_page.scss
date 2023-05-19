@@ -15,8 +15,8 @@
         color: $c-base__02;
     }
    
-    h1 a {
-        color: $c-base__02;
+    h1 a:hover {
+        text-decoration: none;
     }
      
     p {
